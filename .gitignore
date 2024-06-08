@@ -1,0 +1,30 @@
+# Arduino Sketches
+*.ino.*
+*.bin
+*.elf
+*.hex
+
+# Compiled object files
+*.o
+
+# Precompiled Libraries
+*.a
+
+# Build folders (can be generated with the IDE)
+build/
+
+# Arduino IDE settings
+*.cpp.*
+*.h.*
+*.log
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
+
+# macOS specific files
+.DS_Store
+
+# IDE specific files
+*.code-workspace
+.vscode/
